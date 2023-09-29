@@ -1,5 +1,4 @@
 # Work-Smarter-with-Microsoft-Excel-final-project
-# Work Smarter with Microsoft Excel
 
 ![Excel Logo](C:\Users\Allwin\Desktop.png) 
 
