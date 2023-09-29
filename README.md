@@ -12,8 +12,6 @@ This repository contains the materials and assignments for the "Work Smarter wit
 - **Completion Date:** [28-SEP-2023]
 
 ## Course Description
-
-[Provide a brief description of the course content and what you learned during the course.]
 This course is tailored for individuals with some experience using Microsoft Windows. It aims to develop your presentation skills with Microsoft Excel. Here's what you can expect from this course:
 
 - **Prerequisites:** To succeed in this course, you should have a basic understanding of using a Windows-based computer. Experience with tasks like printing and using a web browser is helpful but not mandatory.
@@ -31,11 +29,12 @@ This course is tailored for individuals with some experience using Microsoft Win
 
 
 ## Repository Contents
-- [Project](https://1drv.ms/x/s!AqaXiM3yxztZhGuQtwHIYYnS_LRE/) - Description of the course project and any project-related files.
+- [Project](https://1drv.ms/x/s!AqaXiM3yxztZhGuQtwHIYYnS_LRE/) - This project involves the organization and enhancement of a Microsoft Excel workbook, focusing on data related to sales and staff management.
+- This project demonstrates effective data organization, formatting, and analysis techniques in Microsoft Excel, catering to both sales data management and staff information integration.
 
 ## How to Use
 
-[Explain how someone can use the contents of this repository, whether it's to review your coursework or to learn from your assignments.]
+- You can access and review this project by clicking on the following project link.
 
 ## Additional Resources
 
