@@ -40,7 +40,7 @@ This course is tailored for individuals with some experience using Microsoft Win
 
 ## Additional Resources
 
-- [Certificate of Completion](certificate.pdf) - You can view my course certificate [here](certificate.pdf).
+- [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/497YFUFMSKQK) - You can view my course certificate [here](https://www.coursera.org/account/accomplishments/certificate/497YFUFMSKQK).
 
 ## Acknowledgments
 
@@ -48,8 +48,4 @@ I would like to express my gratitude to [Microsoft] for providing this insightfu
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach me at [your-mehtabalam9161@gmail.com].
-
----
-
-**Note:** This README is a template. Please customize it to include your specific course details, assignments, and any other relevant information. Feel free to enhance it with more sections or details as needed.
+If you have any questions or would like to connect, you can reach me at [Email]_(mehtabalam9161@gmail.com).
