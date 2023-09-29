@@ -1,7 +1,7 @@
 # Work-Smarter-with-Microsoft-Excel-final-project
 # Work Smarter with Microsoft Excel
 
-![Excel Logo](excel_logo.png) 
+![Excel Logo](C:\Users\Allwin\Desktop.png) 
 
 This repository contains the materials and assignments for the "Work Smarter with Microsoft Excel" course I completed on Coursera. In this course, I learned valuable skills and techniques for optimizing my use of Microsoft Excel to enhance my productivity and efficiency in various tasks.
 
