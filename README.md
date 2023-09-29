@@ -32,7 +32,7 @@ This course is tailored for individuals with some experience using Microsoft Win
 
 
 ## Repository Contents
-- [Project](project/) - Description of the course project and any project-related files.
+- [Project](https://1drv.ms/x/s!AqaXiM3yxztZhGuQtwHIYYnS_LRE/) - Description of the course project and any project-related files.
 
 ## How to Use
 
